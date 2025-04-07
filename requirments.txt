@@ -9,3 +9,4 @@ pydantic
 fastapi
 pathlib
 dotenv
+opencv-python torch torchvision ultralytics deep_sort_realtime
